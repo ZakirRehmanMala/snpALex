@@ -1,0 +1,1 @@
+"Wasif bhai, I made this page using HTML, CSS, and JavaScript, and I created it quickly. Please take a look — if there are any small mistakes, correct them. I don’t think there are any mistakes, but still, please check once."
